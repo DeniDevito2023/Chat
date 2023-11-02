@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\build\debug\Chat_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\CommandLineInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\Database.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\Message.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\Parsing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\User.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\loginform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\registration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\sha1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\startscreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\build\debug\Chat_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\build\debug\Chat_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\build\debug\Chat_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\CommandLineInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\Database.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\Parsing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\User.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\loginform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\registration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\sha1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\startscreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\build\debug\CMakeFiles\e4f173c08e1cff3c66dd1570e5823e52\my_ru.ts.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\build\debug\CMakeFiles\a8e76aa7a10dd5259291149a7310a228\my_ru.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\loginform.ui" />
+    <CustomBuild Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\mainwindow.ui" />
+    <CustomBuild Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\registration.ui" />
+    <CustomBuild Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\sources\startscreen.ui" />
+    <CustomBuild Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\CPLUS-UI-ChatCPPTest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\deni_\OneDrive\Рабочий стол\TestChat\build\debug\my_ru.qm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1E44F5E7-2AB6-3633-B01A-A86F1AD87049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E3F8E7F1-82D0-3540-B8C9-55CFEB6097B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F8293BE9-1DD0-3957-BE33-97A2D09CA91B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:/Users/deni_/OneDrive/Рабочий стол/TestChat/build/debug/CMakeFiles/translations.dir
+C:/Users/deni_/OneDrive/Рабочий стол/TestChat/build/debug/CMakeFiles/translate_my_ru.dir
+C:/Users/deni_/OneDrive/Рабочий стол/TestChat/build/debug/CMakeFiles/Chat.dir
+C:/Users/deni_/OneDrive/Рабочий стол/TestChat/build/debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/deni_/OneDrive/Рабочий стол/TestChat/build/debug/CMakeFiles/ZERO_CHECK.dir
